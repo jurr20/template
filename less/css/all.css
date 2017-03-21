@@ -1,0 +1,44 @@
+p {
+  font-size: 1em;
+  padding: 15px 0;
+}
+.row-form {
+  padding: 5px 0;
+}
+input,
+textarea,
+select {
+  width: 100%;
+  padding: 5pc 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+.btn {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  font-size: 14px;
+  padding: 10px 20px;
+  border: 1px solid  #ccc;
+}
+.btn-primary {
+  padding: 40px;
+}
+.list {
+  background: #333;
+  font-size: 1.2em;
+}
+.card {
+  background: yellowgreen;
+  text-align: center;
+  font-size: 1.3em;
+}
+.header {
+  padding: 3% 0;
+}
+.main {
+  background: yellowgreen;
+}
+.footer {
+  background: #333;
+}
